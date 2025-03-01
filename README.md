@@ -44,6 +44,6 @@
 
 ### Phase 4: 📈Reporting & Presentation
 	10.	Report & Insights
-
+ 
 	    •	Summarize key findings in a detailed report with charts and graphs.
 	    •	Suggest business strategies for online sellers based on the data (e.g., competitive pricing, popular products).
